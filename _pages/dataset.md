@@ -4,9 +4,6 @@ title:
 permalink: /dataset/
 author_profile: true
 ---
-
-<h1 style= "color:#be887b"> SAGA v1 dataset </h1>
-
 <h1 style= "color:#be887b"> SAGA v1 dataset </h1>
 <a href="https://github.com/KKKK16/KKKK16.github.io">Known APT Campaigns Dataset.zip</a>
 <p>The dataset include 8 APT campaigns based on cyber threat intelligence reports from real-world APT campaigns, including Higaisa, admin338, APT28, FIN7, CobaltGroup, Gamaredon, Patchwork, and GorgonGroup.</p>
