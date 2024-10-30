@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #4CAF50; /* 背景顏色 */
+    color: white; /* 字體顏色 */
+}
+
+.navbar a {
+    color: white; /* 導航鏈接顏色 */
+}
+
+.navbar a:hover {
+    color: #FFD700; /* 滑鼠懸停時顏色 */
+}
