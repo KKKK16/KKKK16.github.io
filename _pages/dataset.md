@@ -5,6 +5,8 @@ author_profile: false
 ---
 
 <!-- <strong style="color: #2F4F4F; font-family: 'Work Sans'; font-weight: bold;font-size:40px">Released Dataset</strong> -->
+<h1 style= "color:#2F4F4F; font-family: 'Work Sans'; margin-top: 1em !important;">Future Updates</h1>
+<p style="font-family: 'Work Sans';">We are committed to continually enhancing and expanding the SAGA dataset. Future versions will include updates to existing scenarios as well as the addition of new attack scenarios that reflect the evolving landscape of cyber threats. These updates will incorporate the latest cyber threat intelligence, advancements in attack simulation techniques, and insights from ongoing cybersecurity research. </p>
 <h1 style= "color:#2F4F4F; font-family: 'Work Sans'; margin-top: 1em !important;">Released Dataset</h1>
 <ul>
   <li>
