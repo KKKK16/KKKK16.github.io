@@ -11,7 +11,14 @@ author_profile: false
   <div class="accordion-item">
     <button class="accordion-header">Higaisa</button>    
     <div class="accordion-content">
-      <p><strong>Attack Stage:</strong> IC → EF → MP → IR → IR → MP → MP</p>      
+      <p><strong>Attack Steps:</strong></p> 
+        <p style="font-family: 'Work Sans';">Step 1. Initial Compromise</p>
+        <p style="font-family: 'Work Sans';">Step 2. Establishing Foothold</p>
+        <p style="font-family: 'Work Sans';">Step 3. Maintaining Presence</p>
+        <p style="font-family: 'Work Sans';">Step 4. Internal Reconnaissance</p>
+        <p style="font-family: 'Work Sans';">Step 5. Internal Reconnaissance</p>
+        <p style="font-family: 'Work Sans';">Step 6. Maintaining Presence</p>
+        <p style="font-family: 'Work Sans';">Step 7. Maintaining Presence</p>
       <p><strong>Techniques:</strong></p>
       <ul>
         <li>Phishing Attachment</li>
