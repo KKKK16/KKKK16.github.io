@@ -21,12 +21,24 @@
   width: 100%;
   max-width: 800px;
   margin: 0 auto;
+  border-radius: 8px; /* 增加整個手風琴的圓角 */
+  overflow: hidden;   /* 確保圓角生效 */
 }
 
 .accordion-item {
-  margin-bottom: 1rem;
   border: 1px solid #ddd;
-  border-radius: 4px;
+  border-top: none; /* 移除手風琴項目的上邊框，使它們相連 */
+}
+
+.accordion-item:first-child {
+  border-top: 1px solid #ddd; /* 為第一個項目添加上邊框 */
+  border-top-left-radius: 8px; /* 左上角圓角 */
+  border-top-right-radius: 8px; /* 右上角圓角 */
+}
+
+.accordion-item:last-child {
+  border-bottom-left-radius: 8px; /* 左下角圓角 */
+  border-bottom-right-radius: 8px; /* 右下角圓角 */
 }
 
 .accordion-header {
