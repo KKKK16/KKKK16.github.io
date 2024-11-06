@@ -26,7 +26,6 @@
 }
 
 .accordion-item {
-  height: 50px;
   border: 1px solid #ddd;
   border-top: none; /* 移除手風琴項目的上邊框，使它們相連 */
 }
@@ -43,6 +42,7 @@
 }
 
 .accordion-header {
+  height: 50px;
   width: 100%;
   padding: 1rem;
   text-align: left;
@@ -51,7 +51,7 @@
   border: none;
   font-size: 1.2rem;
   font-weight: bold;
-  color: #3D3D3D;
+  color: #2F4F4F;
 }
 
 .accordion-header:hover {
