@@ -11,7 +11,7 @@ author_profile: false
   <div class="accordion-item">
     <button class="accordion-header">Higaisa</button>    
     <div class="accordion-content">
-      <p><strong>Attack Steps:</strong></p> 
+      <p style="margin-bottom: 0;"><strong>Attack Steps:</strong></p> 
         <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 2em;">Step 1. Initial Compromise</p>
         <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 2em;">Step 2. Establishing Foothold</p>
         <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 2em;">Step 3. Maintaining Presence</p>
@@ -19,18 +19,18 @@ author_profile: false
         <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 2em;">Step 5. Internal Reconnaissance</p>
         <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 2em;">Step 6. Maintaining Presence</p>
         <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 2em;">Step 7. Maintaining Presence</p>
-      <p><strong>Techniques:</strong></p>
+      <p style="margin-bottom: 0;"><strong>Techniques:</strong></p>
       <ul>
-        <li>Phishing Attachment</li>
-        <li>Malicious File Execution</li>
-        <li>Registry Run Keys</li>
-        <li>System Information Discovery</li>
-        <li>System Network Configuration Discovery</li>
-        <li>Masquerade Task or Service</li>
-        <li>Scheduled Task</li>
+        <li style="margin-bottom: 0;">Phishing Attachment</li>
+        <li style="margin-bottom: 0;">Malicious File Execution</li>
+        <li style="margin-bottom: 0;">Registry Run Keys</li>
+        <li style="margin-bottom: 0;">System Information Discovery</li>
+        <li style="margin-bottom: 0;">System Network Configuration Discovery</li>
+        <li style="margin-bottom: 0;">Masquerade Task or Service</li>
+        <li style="margin-bottom: 0;">Scheduled Task</li>
       </ul>      
-      <p><strong>Event:</strong> 607,416</p>
-      <p><strong>MalEvent:</strong> 0.005%</p>
+      <p style="margin-bottom: 0;"><strong>Event:</strong> 607,416</p>
+      <p style="margin-bottom: 0;"><strong>MalEvent:</strong> 0.005%</p>
     </div>
   </div>
   <div class="accordion-item">
