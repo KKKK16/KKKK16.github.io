@@ -34,11 +34,99 @@ author_profile: false
     </div>
   </div>
   <div class="accordion-item">
-    <button class="accordion-header" id="accordion2">
-      <span class="accordion-title">Campaign 2</span>
-    </button>
-    <div class="accordion-content" id="content2">
-      <p>This is the second campaign's detailed description. More content can go here.</p>
+    <button class="accordion-header">APT28</button>    
+    <div class="accordion-content">
+      <p style="margin-bottom: 0;"><strong>Attack Steps:</strong></p> 
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 1. Initial Compromise</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 2. Establishing Foothold</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 3. Establishing Foothold</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 4. Internal Reconnaissance</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 5. Internal Reconnaissance</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 6. Complete Mission</p>
+      <p style="margin-bottom: 0;"><strong>Techniques:</strong></p>
+      <ul style="margin: 0;">
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Phishing Attachment</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Web Protocols</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Malicious File Execution</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">System Information Discovery</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Data from Local System</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Exfiltration Over Web Service</li>
+      </ul>      
+      <p style="margin-bottom: 0;"><strong>Event:</strong> 1,203,013</p>
+      <p style="margin-bottom: 0;"><strong>MalEvent:</strong> 1.175%</p>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <button class="accordion-header">CobaltGroup</button>    
+    <div class="accordion-content">
+      <p style="margin-bottom: 0;"><strong>Attack Steps:</strong></p> 
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 1. Initial Compromise</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 2. Establishing Foothold</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 3. Internal Reconnaissance</p>
+      <p style="margin-bottom: 0;"><strong>Techniques:</strong></p>
+      <ul style="margin: 0;">
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Phishing Attachment</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Remote Access Software</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Network Service Discovery</li>
+      </ul>      
+      <p style="margin-bottom: 0;"><strong>Event:</strong> 961,920</p>
+      <p style="margin-bottom: 0;"><strong>MalEvent:</strong> 0.118%</p>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <button class="accordion-header">Gamaredon</button>    
+    <div class="accordion-content">
+      <p style="margin-bottom: 0;"><strong>Attack Steps:</strong></p> 
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 1. Initial Compromise</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 2. Establishing Foothold</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 3. Establishing Foothold</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 4. Maintaining Presence</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 5. Maintaining Presence</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 6. Internal Reconnaissance</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 7. Internal Reconnaissance</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 8. Maintaining Presence</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 9. Complete Mission</p>
+      <p style="margin-bottom: 0;"><strong>Techniques:</strong></p>
+      <ul style="margin: 0;">
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Phishing Attachment</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Web Protocols</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Malicious File Execution</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Modify Registry</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Registry Run Keys</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Windows Management Instrumentation</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">System Information Discovery</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Scheduled Task</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Defacement</li>
+      </ul>      
+      <p style="margin-bottom: 0;"><strong>Event:</strong> 442,729</p>
+      <p style="margin-bottom: 0;"><strong>MalEvent:</strong> 0.013%</p>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <button class="accordion-header">Patchwork</button>    
+    <div class="accordion-content">
+      <p style="margin-bottom: 0;"><strong>Attack Steps:</strong></p> 
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 1. Initial Compromise</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 2. Establishing Foothold</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 3. Escalating Privileges</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 4. Internal Reconnaissance</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 5. Internal Reconnaissance</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 6. Internal Reconnaissance</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 7. Maintaining Presence</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 1.5em;">Step 8. Moving Laterally</p>
+      <p style="margin-bottom: 0;"><strong>Techniques:</strong></p>
+      <ul style="margin: 0;">
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Phishing Attachment</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">PowerShell</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Bypass User Account Control</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Data from Local System</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">System Owner/User Discovery</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Security Software Discovery</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Registry Run Keys</li>
+        <li style="font-family: 'Work Sans'; margin-bottom: 0;">Remote Desktop Protocol</li>
+      </ul>      
+      <p style="margin-bottom: 0;"><strong>Event:</strong> 155,296</p>
+      <p style="margin-bottom: 0;"><strong>MalEvent:</strong> 9.095%</p>
     </div>
   </div>
 </div>
