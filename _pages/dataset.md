@@ -10,7 +10,7 @@ author_profile: false
 <h1 style= "color:#2F4F4F; font-family: 'Work Sans'; margin-top: 1em !important;">Released Dataset</h1>
 <ul>
   <li>
-    <p style="font-family: 'Work Sans'; font-size:24px;">SAGA dataset - v2.0</p><br>    
+    <p style="font-family: 'Work Sans'; font-size:24px;">SAGA dataset - v2.0</p>  
     <p style="font-family: 'Work Sans';">This version of the dataset includes three types of attack scenarios, designed to support cybersecurity research focused on Advanced Persistent Threats (APTs):</p>
     <ul>
       <li style="font-family: 'Work Sans';"><strong>Known APT Campaigns</strong>: These scenarios are based on cyber threat intelligence reports from real-world APT activities, accurately replicating documented attack techniques and lifecycles.</li>
