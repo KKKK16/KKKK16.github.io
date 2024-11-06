@@ -16,6 +16,50 @@
   }
 }
 
+/* Accordion 基本樣式 */
+.accordion {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.accordion-item {
+  margin-bottom: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.accordion-header {
+  width: 100%;
+  padding: 1rem;
+  text-align: left;
+  background-color: #f1f1f1;
+  cursor: pointer;
+  border: none;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.accordion-header:hover {
+  background-color: #e0e0e0;
+}
+
+.accordion-title {
+  font-size: 1.2rem;
+}
+
+.accordion-content {
+  display: none;
+  padding: 1rem;
+  background-color: #fafafa;
+  border-top: 1px solid #ddd;
+}
+
+/* 展開時的樣式 */
+.accordion-content.show {
+  display: block;
+}
+
 .page {
   @include breakpoint($large) {
     @include span(12 of 12 last);
