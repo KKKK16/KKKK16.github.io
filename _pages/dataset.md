@@ -11,9 +11,9 @@ author_profile: false
     <a href="https://kkkk16.github.io/dataset/v1" target="_self" style="font-family: 'Work Sans'; font-size:24px;">SAGA dataset - v2.0</a><br>    
     <p style="font-family: 'Work Sans';">This version of the dataset includes three types of attack scenarios, designed to support cybersecurity research focused on Advanced Persistent Threats (APTs):</p>
     <ul>
-      <li><strong>Known APT Campaigns</strong>: These scenarios are based on cyber threat intelligence reports from real-world APT activities, accurately replicating documented attack techniques and lifecycles.</li>
-      <li><strong>Generated APT Campaigns</strong>: Using SAGA's random generation capability, these scenarios simulate realistic APT attacks, producing novel yet highly plausible attack patterns.</li>
-      <li><strong>Composite APT Campaigns</strong>: These scenarios are created by randomly combining three scenarios from the previous two categories, reflecting more complex, multi-layered real-world attack situations and showcasing the interaction of various attack techniques and strategies.</li>
+      <li style="font-family: 'Work Sans';"><strong>Known APT Campaigns</strong>: These scenarios are based on cyber threat intelligence reports from real-world APT activities, accurately replicating documented attack techniques and lifecycles.</li>
+      <li style="font-family: 'Work Sans';"><strong>Generated APT Campaigns</strong>: Using SAGA's random generation capability, these scenarios simulate realistic APT attacks, producing novel yet highly plausible attack patterns.</li>
+      <li style="font-family: 'Work Sans';"><strong>Composite APT Campaigns</strong>: These scenarios are created by randomly combining three scenarios from the previous two categories, reflecting more complex, multi-layered real-world attack situations and showcasing the interaction of various attack techniques and strategies.</li>
     </ul>
   </li>
   <li>
