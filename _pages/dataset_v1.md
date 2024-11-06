@@ -20,7 +20,7 @@ author_profile: false
         <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 2em;">Step 6. Maintaining Presence</p>
         <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 2em;">Step 7. Maintaining Presence</p>
       <p style="margin-bottom: 0;"><strong>Techniques:</strong></p>
-      <ul>
+      <ul style="margin: 0;">
         <li style="margin-bottom: 0;">Phishing Attachment</li>
         <li style="margin-bottom: 0;">Malicious File Execution</li>
         <li style="margin-bottom: 0;">Registry Run Keys</li>
