@@ -45,7 +45,7 @@
   width: 100%;
   padding: 1rem;
   text-align: left;
-  background-color: #f1f1f1;
+  background-color: #b5a99a;
   cursor: pointer;
   border: none;
   font-size: 1.2rem;
@@ -53,7 +53,7 @@
 }
 
 .accordion-header:hover {
-  background-color: #e0e0e0;
+  background-color: #BDAE9F;
 }
 
 .accordion-title {
@@ -63,11 +63,10 @@
 .accordion-content {
   display: none;
   padding: 1rem;
-  background-color: #fafafa;
+  background-color: #F5F2EF;
   border-top: 1px solid #ddd;
 }
 
-/* 展開時的樣式 */
 .accordion-content.show {
   display: block;
 }
