@@ -96,22 +96,4 @@ $(document).ready(function(){
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
-   // 以下是 Accordion 功能的 JavaScript
-  const headers = document.querySelectorAll(".accordion-header");
-
-  headers.forEach(header => {
-    header.addEventListener("click", function() {
-      const content = this.nextElementSibling;
-      
-      // 切換顯示/隱藏內容
-      content.classList.toggle("show");
-
-      // 收起其他所有的內容（可選）
-      document.querySelectorAll(".accordion-content").forEach(item => {
-        if (item !== content) {
-          item.classList.remove("show");
-        }
-      });
-    });
-  });
 });
