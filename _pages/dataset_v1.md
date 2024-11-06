@@ -25,25 +25,3 @@ author_profile: false
     </div>
   </div>
 </div>
-
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
-        const headers = document.querySelectorAll(".accordion-header");
-
-        headers.forEach(header => {
-            header.addEventListener("click", function() {
-                const content = this.nextElementSibling;
-
-                // 顯示/隱藏內容
-                content.classList.toggle("show");
-
-                // 收起其他所有的內容（可選）
-                document.querySelectorAll(".accordion-content").forEach(item => {
-                    if (item !== content) {
-                        item.classList.remove("show");
-                    }
-                });
-            });
-        });
-    });
-</script>
