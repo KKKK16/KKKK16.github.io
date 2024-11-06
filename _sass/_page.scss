@@ -28,6 +28,7 @@
 .accordion-item {
   border: 1px solid #ddd;
   border-top: none; /* 移除手風琴項目的上邊框，使它們相連 */
+  font-family: Quicksand;
 }
 
 .accordion-item:first-child {
@@ -46,7 +47,7 @@
   width: 100%;
   padding: 5px;
   text-align: left;
-  background-color: #c7bbae;
+  background-color: #dcd4cc;
   cursor: pointer;
   border: none;
   font-size: 1.2rem;
