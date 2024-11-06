@@ -9,11 +9,21 @@ author_profile: false
 
 <div class="accordion">
   <div class="accordion-item">
-    <button class="accordion-header" id="accordion1">
-      <span class="accordion-title">Campaign 1</span>
-    </button>
-    <div class="accordion-content" id="content1">
-      <p>This is the first campaign's detailed description. You can place more content here.</p>
+    <button class="accordion-header">Higaisa</button>    
+    <div class="accordion-content">
+      <p><strong>Attack Stage:</strong> IC → EF → MP → IR → IR → MP → MP</p>      
+      <p><strong>Techniques:</strong></p>
+      <ul>
+        <li>Phishing Attachment</li>
+        <li>Malicious File Execution</li>
+        <li>Registry Run Keys</li>
+        <li>System Information Discovery</li>
+        <li>System Network Configuration Discovery</li>
+        <li>Masquerade Task or Service</li>
+        <li>Scheduled Task</li>
+      </ul>      
+      <p><strong>Event:</strong> 607,416</p>
+      <p><strong>MalEvent:</strong> 0.005%</p>
     </div>
   </div>
   <div class="accordion-item">
