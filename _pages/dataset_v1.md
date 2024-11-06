@@ -12,13 +12,13 @@ author_profile: false
     <button class="accordion-header">Higaisa</button>    
     <div class="accordion-content">
       <p><strong>Attack Steps:</strong></p> 
-        <p style="font-family: 'Work Sans'; margin: 0 auto;" margin-left: 2em>Step 1. Initial Compromise</p>
-        <p style="font-family: 'Work Sans'; margin: 0 auto;" margin-left: 2em>Step 2. Establishing Foothold</p>
-        <p style="font-family: 'Work Sans'; margin: 0 auto;" margin-left: 2em>Step 3. Maintaining Presence</p>
-        <p style="font-family: 'Work Sans'; margin: 0 auto;" margin-left: 2em>Step 4. Internal Reconnaissance</p>
-        <p style="font-family: 'Work Sans'; margin: 0 auto;" margin-left: 2em>Step 5. Internal Reconnaissance</p>
-        <p style="font-family: 'Work Sans'; margin: 0 auto;" margin-left: 2em>Step 6. Maintaining Presence</p>
-        <p style="font-family: 'Work Sans'; margin: 0 auto;" margin-left: 2em>Step 7. Maintaining Presence</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 2em;">Step 1. Initial Compromise</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 2em;">Step 2. Establishing Foothold</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 2em;">Step 3. Maintaining Presence</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 2em;">Step 4. Internal Reconnaissance</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 2em;">Step 5. Internal Reconnaissance</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 2em;">Step 6. Maintaining Presence</p>
+        <p style="font-family: 'Work Sans'; margin: 0 auto; text-indent: 2em;">Step 7. Maintaining Presence</p>
       <p><strong>Techniques:</strong></p>
       <ul>
         <li>Phishing Attachment</li>
