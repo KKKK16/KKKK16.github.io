@@ -4,8 +4,8 @@ permalink: /dataset/
 author_profile: false
 ---
 
-<strong style="color: #2F4F4F; font-family: 'Work Sans'; font-weight: bold;font-size:40px">Released Dataset</strong>
-<!-- <h1 style= "color:#2F4F4F; font-family: 'Work Sans'; margin-top: 1em !important;">Download the Released Dataset</h1> -->
+<!-- <strong style="color: #2F4F4F; font-family: 'Work Sans'; font-weight: bold;font-size:40px">Released Dataset</strong> -->
+<h1 style= "color:#2F4F4F; font-family: 'Work Sans'; margin-top: 1em !important;">Released Dataset</h1>
 <ul>
   <li>
     <a href="https://kkkk16.github.io/dataset/v1" target="_blank" style="font-family: 'Work Sans'; font-size:36px;">SAGA dataset - v2.0</a><br>    
