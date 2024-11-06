@@ -22,11 +22,6 @@
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     const headers = document.querySelectorAll(".accordion-header");
-    // const firstContent = document.querySelector(".accordion-item .accordion-content");
-    // if (firstContent) {
-    //   firstContent.classList.add("show");  // 展開第一個項目
-    // }
-    
     headers.forEach(header => {
       header.addEventListener("click", function() {
         const content = this.nextElementSibling;
